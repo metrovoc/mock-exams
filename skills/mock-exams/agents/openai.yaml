@@ -1,0 +1,6 @@
+interface:
+  display_name: "Mock Exams"
+  short_description: "Mock exams that replicate a course's real exam"
+  default_prompt: "Use $mock-exams to build mock exams for this course's next exam."
+policy:
+  allow_implicit_invocation: false
